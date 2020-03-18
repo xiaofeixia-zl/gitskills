@@ -15,7 +15,7 @@ public class TestController {
 
     String getTest(){
 
-        return "test";
+        return "testtest";
 
     }
 
