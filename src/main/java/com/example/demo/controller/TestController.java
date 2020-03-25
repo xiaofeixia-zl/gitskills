@@ -14,7 +14,9 @@ public class TestController {
     @RequestMapping(value ="/test",method = RequestMethod.GET)
 
     String getTest(){
-
+        String a = "aaa";
+        String b = "bbb";
+        String c = "ccc";
         return "testtest";
 
     }
